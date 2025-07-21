@@ -1,4 +1,4 @@
-Absolutely! Here's a customizable `README.md` template for your **Freshcart MERN full stack project**. I'll make it clean, professional, and beginner-friendly. You can tweak it based on your specific features, setup, and deployment.
+
 
 ```markdown
 # 🛒 Freshcart MERN
