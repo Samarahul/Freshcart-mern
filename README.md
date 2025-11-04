@@ -137,18 +137,3 @@ If you like this repository, **star** it to support the project!
 <p align="center">
   ⭐⭐⭐⭐⭐
 </p>
-
-```
-
----
-
-### Want me to also add?
-
-- Demo GIF preview
-- Live deployment badges (Vercel/Render)
-- API documentation section
-- `CONTRIBUTING.md` + `API.md` files
-- Tech architecture diagram
-
-Reply with **yes** and tell me which ones you want.
-```
