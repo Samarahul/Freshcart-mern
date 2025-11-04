@@ -34,7 +34,7 @@ Browse products, add to cart, and checkout with secure authentication.
 | Backend | Node.js, Express.js |
 | Database | MongoDB + Mongoose |
 | Auth | JWT, bcrypt |
-| UI | CSS / Bootstrap (if you upgraded, mention Tailwind) |
+| UI | CSS / Bootstrap /Tailwind |
 
 ---
 
@@ -99,17 +99,8 @@ npm start
 
 ---
 
-### 📸 Screenshots (Add your images here)
-
-| Home               | Cart               | Product            |
-| ------------------ | ------------------ | ------------------ |
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
-
----
-
 ### 🛠 Future Enhancements
 
-⏳ Payment Gateway Integration
 📦 Order History & Tracking
 📊 Admin Dashboard (Analytics)
 📸 Product image upload
