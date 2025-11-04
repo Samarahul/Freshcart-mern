@@ -1,7 +1,3 @@
-Below is an **enhanced & attractive README** with icons, badges, and better formatting.
-Copy-paste into your `README.md`:
-
-```markdown
 <h1 align="center">🛒 Freshcart MERN</h1>
 
 <p align="center">
